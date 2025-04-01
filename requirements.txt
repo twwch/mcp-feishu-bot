@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-dotenv
+requests
+python-multipart
+lark-oapi
+mcp
+playwright
+openai
