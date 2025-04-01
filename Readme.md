@@ -3,7 +3,6 @@
 
 一个简单的mcp结合飞书机器人的项目
 
-<video src="./demo.mp4"></video>
 
 
 部署步骤：
