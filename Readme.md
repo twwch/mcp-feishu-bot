@@ -3,6 +3,8 @@
 
 一个简单的mcp结合飞书机器人的项目
 
+https://github.com/user-attachments/assets/02d8ddfb-86a0-401c-9897-c5579e28624b
+
 
 
 部署步骤：
